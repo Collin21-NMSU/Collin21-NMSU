@@ -10,9 +10,9 @@ I'm an **IT Systems Technician** and Developer based in Las Cruces New Mexico, h
 ### Featured Projects
 * **[ServerStartupSuite](https://github.com/Collin21-NMSU/ServerStartupSuite)**
   * Developed a software suite designed to automate and simplify baseline AD/DS services, workstation hardening techniques, and environment checks.
-* **[IoT Server Room Environmental Monitor](https://github.com/Collin21-NMSU/FlaskWeatherApp)**
+* **[IoT Server Room Environmental Monitor](https://github.com/Collin21-NMSU/ServerRoomEnvironmentalMonitor)**
    * Built a PySide6-based GUI tool using a Raspberry Pi 5 to track and notify users of real-time climate and hardware metrics.
-* **[Automated Flask Weather Application](https://github.com/Collin21-NMSU/ServerRoomEnvironmentalMonitor)**
+* **[Automated Flask Weather Application](https://github.com/Collin21-NMSU/FlaskWeatherApp)**
   * Engineered a full-stack automated deployment architecture using GitLab CI, Flask, Ansible playbooks, AWS, and Nginx.
 * **[Python-based Keystroke Logging Tool & Dashboard](https://github.com/Collin21-NMSU/KeystrokeLoggingDashboard)**
   * Developed a Python-based background keystroke logging application (`pynput`) with a local PHP dashboard to monitor collected data.
