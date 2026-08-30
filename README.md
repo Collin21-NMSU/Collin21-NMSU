@@ -18,5 +18,4 @@ I'm an **IT Systems Technician** and Developer based in Las Cruces New Mexico, h
   * Developed a Python-based background keystroke logging application (`pynput`) with a local PHP dashboard to monitor collected data.
 ---
 ### Connect With Me
-* **GitHub:** [github.com/Collin21-NMSU](https://github.com/Collin21-NMSU)
 * **Email:** collin21@nmsu.edu
