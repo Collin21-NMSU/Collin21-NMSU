@@ -16,6 +16,8 @@ I'm an **IT Systems Technician** and Developer based in Las Cruces New Mexico, h
   * Engineered a full-stack automated deployment architecture using GitLab CI, Flask, Ansible playbooks, AWS, and Nginx.
 * **[Python-based Keystroke Logging Tool & Dashboard](https://github.com/Collin21-NMSU/KeystrokeLoggingDashboard)**
   * Developed a Python-based background keystroke logging application (`pynput`) with a local PHP dashboard to monitor collected data.
+* **[MicroSegEnforcer](https://github.com/Collin21-NMSU/MicroSegEnforcer)**
+  * Built a C# console application to evaluate microsegmentation network traffic rules locally against JSON policy files.
 ---
 ### Connect With Me
 * **Email:** collin21@nmsu.edu
