@@ -1,5 +1,5 @@
 ### Hi there, I'm Collin Milligan
-I'm an **IT Systems Technician** and Developer based in Las Cruces New Mexico, holding a Masters of Engineering in Information Technology and a Bachelor of Engineering in Information & Communication Technology from New Mexico State University. My technical focus predominantly centers on systems administration, cybersecurity architecture, and infrastructure automation.
+I'm an **IT Systems Technician** and Developer based in Las Cruces New Mexico. My technical focus predominantly centers on systems administration, cybersecurity architecture, and infrastructure automation.
 
 ---
 ### Technical Stack & Skills
