@@ -20,4 +20,4 @@ I'm an **IT Systems Technician** and Developer based in Las Cruces New Mexico. M
   * Built a C# console application to evaluate microsegmentation network traffic rules locally against JSON policy files.
 ---
 ### Connect With Me
-* **Email:** collin21@nmsu.edu
+* **Email:** c.milligan9651@gmail.com
