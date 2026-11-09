@@ -18,6 +18,8 @@ I'm an **IT Systems Technician** and Developer based in Las Cruces New Mexico. M
   * Developed a Python-based background keystroke logging application (`pynput`) with a local PHP dashboard to monitor collected data.
 * **[MicroSegEnforcer](https://github.com/Collin21-NMSU/MicroSegEnforcer)**
   * Built a C# console application to evaluate microsegmentation network traffic rules locally against JSON policy files.
+* **[IntelScout](https://github.com/Collin21-NMSU/IntelScout)**
+  * Developed an asynchronous C# CLI threat intelligence tool (.NET 10) querying the AbuseIPDB v2 REST API for real-time IP indicator analysis and batch execution.
 ---
 ### Connect With Me
 * **Email:** c.milligan9651@gmail.com
